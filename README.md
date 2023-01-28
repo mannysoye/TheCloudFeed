@@ -32,8 +32,8 @@ Before you begin, make sure you have:
 # __Deploying the Application__
 
 1) Clone the repository to your local machine using git.
-```bash`
-```git clone https://github.com/<mannysoye>/<TheCloudFeed>.git```
+`bash`
+`git clone https://github.com/<mannysoye>/<TheCloudFeed>.git`
 
 2) Change into the project directory.
 `bash`
